@@ -16,3 +16,10 @@ npm install gulp gulp-concat gulp-minify gulp-clean-css gulp-less
 gulp
 npm run create-bundles
 ```
+
+Add a line in package.json
+```
+"scripts": {
+    "create-bundles": "gulp"
+},
+```
