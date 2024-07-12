@@ -1,0 +1,28 @@
+{
+    "scripts": [
+      {
+        "output": "dist/js/bundle.min.js",
+        "input": [
+          "js/main.js",
+          "js/validation.js",
+          "js/profile.js",
+          "js/redeem-gift.js",
+          "js/support.js",
+          "js/about.js"
+        ]
+      }
+    ],
+    "styles": [
+      {
+        "output": "dist/css/bundle.min.css",
+        "input": [
+          "assets/css/styles.css",
+          "assets/css/base.css",
+          "assets/css/grid.min.css",
+          "assets/css/responsive.css"
+        ]
+      }
+    ],
+    "scriptMappings": []
+  }
+  
